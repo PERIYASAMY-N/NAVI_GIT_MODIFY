@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <!-- Animated typing intro -->
@@ -151,3 +152,6 @@ A smart civic platform for real-time public issue reporting, tracking, and autom
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,100:00F7FF&height=120&section=footer" width="100%"/>
 
 </div>
+=======
+# NAVI_GIT_MODIFY
+>>>>>>> 5d3bf18e9b8cb8ce9b172b961f274ce62ae8448a
