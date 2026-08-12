@@ -1,197 +1,255 @@
 <div align="center">
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=180&section=header&text=Hi%20There%20👋,%20I'm%20Periyasamy%20N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Developer&descAlignY=65&descSize=20" width="100%"/>
+# PERIYASAMY N
 
-<!-- Animated typing intro -->
 <a href="https://github.com/PERIYASAMY-N">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+LLM+Enthusiast;MERN+Stack+Developer;Java+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=6366f1&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;AI+%26+LLM+Enthusiast;Java+Developer;Problem+Solver" alt="Typing SVG" />
 </a>
 
-<br/>
+<p>
+  B.Tech Information Technology<br>
+  Full Stack · AI · Java · Problem Solving
+</p>
 
-<!-- Social Links -->
-<a href="https://linkedin.com/in/periyasamy-natchimuthu04">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/periyasamyn">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="mailto:periyasamynatchimuthu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://periyasamy-n.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<p>
+  <a href="https://github.com/PERIYASAMY-N">GitHub</a> · 
+  <a href="https://linkedin.com/in/periyasamy-natchimuthu04">LinkedIn</a> · 
+  <a href="https://leetcode.com/u/periyasamyn">LeetCode</a> · 
+  <a href="https://periyasamy-n.github.io">Portfolio</a> · 
+  <a href="mailto:periyasamynatchimuthu@gmail.com">Email</a>
+</p>
 
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=PERIYASAMY-N&style=flat-square&color=7B2FFF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=2" width="100%"/>
 
 </div>
 
----
+<br>
 
-## 🧬 About Me
+<table width="100%">
+  <tr>
+    <td width="25%">
+      <strong>FOCUS</strong><br>
+      Full Stack + AI
+    </td>
+    <td width="25%">
+      <strong>EDUCATION</strong><br>
+      B.Tech IT
+    </td>
+    <td width="25%">
+      <strong>CGPA</strong><br>
+      8.68
+    </td>
+    <td width="25%">
+      <strong>STATUS</strong><br>
+      Final-Year Student
+    </td>
+  </tr>
+</table>
 
-I am a final-year **B.Tech Information Technology** student at **VSB Engineering College, Karur** (CGPA: 8.68). I am passionate about **Full Stack Development**, building **AI-powered applications**, and improving my **problem-solving** skills. 
+<br>
 
-I enjoy bridging the gap between intelligent AI/LLM systems and scalable web architectures using tools like **React.js, Node.js, MongoDB**, and **Java**.
+### ABOUT
 
-### 🎯 Career Goal
-To become a strong software engineer specializing in full-stack development and AI-powered applications, delivering impactful and scalable technological solutions.
+I build practical software at the intersection of full-stack development and AI.
 
----
+I am a final-year B.Tech Information Technology student at VSB Engineering College, Karur, with a CGPA of 8.68. My primary interests include full-stack development, AI-powered applications, Java, MERN technologies, and problem solving. I enjoy transforming ideas into practical software and continuously exploring modern technologies.
 
-## 🚀 What I Build
-- **Full-stack web applications** (MERN Stack)
-- **AI-powered developer tools** (LLMs, NLP)
-- **Civic technology solutions**
-- **Student collaboration platforms**
-- **Interactive learning applications**
+<br>
 
-## 🔭 Current Focus
-Currently Exploring:
-- AI Agents & LLM Applications
-- Cloud Computing & Distributed Systems
-- Advanced Full Stack Architecture
-- Data Structures & Algorithms
+### BUILD → LEARN → IMPROVE
 
----
+Build practical software.<br>
+Learn from every implementation.<br>
+Improve through iteration.
 
-## 🛠️ Tech Stack
+<br>
+
+### WHAT I DO
+
+**01 / FULL STACK**<br>
+Building modern web applications using React, Node.js, Express and MongoDB.
+
+<br>
+
+**02 / AI APPLICATIONS**<br>
+Building practical applications using LLMs, AI APIs and intelligent workflows.
+
+<br>
+
+**03 / PROBLEM SOLVING**<br>
+Improving algorithmic thinking through Java, DSA and LeetCode practice.
+
+<br>
+
+**04 / REAL-WORLD SOFTWARE**<br>
+Building solutions for civic technology, education, collaboration and productivity.
+
+<br>
+
+### CURRENTLY EXPLORING
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      → AI Agents<br>
+      → LLM Applications<br>
+      → Cloud Computing
+    </td>
+    <td width="50%">
+      → Distributed Systems<br>
+      → Advanced Full Stack Architecture<br>
+      → Data Structures & Algorithms
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### SELECTED WORK
+
+**01 / AI CODE REVIEW AGENT**
+<hr>
+AI-powered developer tool that analyzes submitted code and identifies bugs, security concerns, performance problems and possible improvements.
+<br><br>
+<strong>STACK</strong><br>
+React.js · FastAPI · Python · Groq · DeepSeek/Llama · SQLite
+<br><br>
+<strong>LIVE →</strong> <a href="https://ai-code-review-agent-1-lrnm.onrender.com">Demo</a>
+
+<br><br>
+
+**02 / CIVIC ISSUES MANAGEMENT SYSTEM**
+<hr>
+A civic technology platform for reporting, tracking and managing public issues including damaged roads, streetlights, garbage and water problems.
+<br><br>
+<strong>STACK</strong><br>
+React.js · Node.js · Express.js · MongoDB
+
+<br><br>
+
+**03 / AI MENTORSHIP & PROJECT PLATFORM**
+<hr>
+An AI-assisted platform for student mentorship, project collaboration, project management and task coordination.
+<br><br>
+<strong>STACK</strong><br>
+React.js · Node.js · MongoDB · Google Maps API
+
+<br>
+
+### TECHNICAL STACK
+
+**LANGUAGES**<br>
+Java · Python · JavaScript · HTML · CSS
+
+<br>
+
+**FRONTEND**<br>
+React.js · HTML · CSS · JavaScript
+
+<br>
+
+**BACKEND**<br>
+Node.js · Express.js · FastAPI
+
+<br>
+
+**DATABASES**<br>
+MongoDB · MySQL · SQLite
+
+<br>
+
+**AI**<br>
+LLM Integration · Groq · DeepSeek · Llama · NLP
+
+<br>
+
+**TOOLS**<br>
+Git · GitHub · VS Code · Postman
+
+<br>
+
+### EXPERIENCE
+
+**INFOSYS SPRINGBOARD**<br>
+Full Stack Development Intern
+<br><br>
+Worked on the Hire-a-Helper project using React, HTML, CSS and JavaScript. Gained practical exposure to full-stack development and collaborative project development.
+<br>
+<hr>
+<br>
+
+**BINARY SPOT TECHNOLOGY · COIMBATORE**<br>
+Web Development Intern
+<br><br>
+Worked on frontend and backend development tasks and collaborated with the development team.
+
+<br>
+
+### EDUCATION
+
+**B.Tech — Information Technology**<br>
+VSB Engineering College, Karur<br>
+CGPA: 8.68
+
+<br>
+
+### CERTIFICATIONS
+
+**01 / JAVA GOLD CERTIFICATION**<br>
+NPTEL · 96%
+
+<br>
+
+**02 / CLOUD COMPUTING AND DISTRIBUTED SYSTEMS**<br>
+NPTEL · 79%
+
+<br>
+
+### ACHIEVEMENT
+
+**Anna University Form-III Certificate**<br>
+Softball
+
+<br>
+
+### CODING PROFILES
+
+- [GitHub](https://github.com/PERIYASAMY-N)
+- [LeetCode](https://leetcode.com/u/periyasamyn)
+- [LinkedIn](https://linkedin.com/in/periyasamy-natchimuthu04)
+- [Portfolio](https://periyasamy-n.github.io)
+
+<br>
+
+### GITHUB STATISTICS
 
 <div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages"/>
-<br/><br/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend"/>
-<br/><br/>
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend"/>
-<br/><br/>
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases"/>
-<br/><br/>
-
-**AI / ML**<br/>
-LLM Integration • Groq • DeepSeek • Llama • NLP • AI-powered applications
-<br/><br/>
-
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=PERIYASAMY-N&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PERIYASAMY-N&theme=transparent&hide_border=true&title_color=6366f1&ring=6366f1&fire=6366f1&currStreakNum=6366f1" height="150" alt="GitHub Streak"/>
 </div>
 
----
+<br>
 
-## 📂 Featured Projects
+### ACTIVITY
 
-### 🤖 AI-Powered Code Review Agent
-An AI-powered system that analyzes user-submitted code to detect bugs, security issues, performance problems, and provides explanations and fixes.
-- **Tech Stack:** React.js, FastAPI, Python, Groq LLM, DeepSeek/Llama, SQLite
-- 🔗 **Live Demo:** [ai-code-review-agent-1-lrnm.onrender.com](https://ai-code-review-agent-1-lrnm.onrender.com)
-- 🔗 **GitHub:** [Repository Placeholder](#)
-
-### 🏛️ Civic Issues Management System
-A civic technology platform for reporting, tracking, and managing public complaints such as damaged roads, streetlights, garbage, and water-related issues.
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
-- 🔗 **GitHub:** [Repository Placeholder](#)
-
-### 🎓 AI-Driven Collaborative Platform for Student Mentorship and Project Management
-An AI-assisted platform for student mentorship, project management, collaboration, and team/task coordination.
-- **Tech Stack:** React.js, Node.js, MongoDB, Google Maps API
-- 🔗 **GitHub:** [Repository Placeholder](#)
-
----
-
-## 💼 Internship Experience
-
-**Infosys SpringBoard** — *Full Stack Development Intern*
-- Worked on the *Hire-a-Helper* project using React, HTML, CSS, and JavaScript.
-- Gained practical exposure to full-stack development.
-- Collaborated on project development activities.
-
-**Binary Spot Technology, Coimbatore** — *Web Development Intern*
-- Worked on frontend and backend development tasks.
-- Collaborated with the development team.
-- Gained practical exposure to software development practices.
-
----
-
-## 🏆 Certifications & Achievements
-
-**Certifications:**
-- 🥇 **Java Gold Certification** with 96% — NPTEL
-- 🥈 **Cloud Computing and Distributed Systems Silver Certification** with 79% — NPTEL
-
-**Achievements:**
-- 🏅 **Anna University Form-III Certificate** in Softball.
-
----
-
-## 🧠 Problem Solving & Coding Profiles
-
-I actively sharpen my algorithmic thinking and coding abilities through consistent practice on platforms like LeetCode.
-
-- **[GitHub (PERIYASAMY-N)](https://github.com/PERIYASAMY-N)**
-- **[LeetCode (periyasamyn)](https://leetcode.com/u/periyasamyn)**
-- **[LinkedIn (periyasamy-natchimuthu04)](https://linkedin.com/in/periyasamy-natchimuthu04)**
-- **[Portfolio (periyasamy-n.github.io)](https://periyasamy-n.github.io)**
-
-<br/>
+"Consistency compounds."
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PERIYASAMY-N&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PERIYASAMY-N&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PERIYASAMY-N&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
-<br/>
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/periyasamyn?theme=tokyonight&font=Fira%20Code&ext=heatmap" height="220" alt="LeetCode Stats"/>
-
+  <img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+  <br>
+  <sub><i>Contribution animation requires the corresponding GitHub Action.</i></sub>
 </div>
 
----
+<br>
 
-## 🐍 Contribution Graph
+### LET'S CONNECT
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-</div>
+Open to software engineering opportunities, collaboration and interesting technical projects.
 
-> ℹ️ *Note: To generate this snake animation automatically, the `snk` GitHub Action must be configured in this repository.*
+[GitHub](https://github.com/PERIYASAMY-N) · [LinkedIn](https://linkedin.com/in/periyasamy-natchimuthu04) · [LeetCode](https://leetcode.com/u/periyasamyn) · [Portfolio](https://periyasamy-n.github.io) · [Email](mailto:periyasamynatchimuthu@gmail.com)
 
----
-
-## 🤝 Let's Connect
-
-I'm always open to discussing new opportunities, full-stack projects, and AI integrations!
-
-- **LinkedIn:** [periyasamy-natchimuthu04](https://linkedin.com/in/periyasamy-natchimuthu04)
-- **Email:** [periyasamynatchimuthu@gmail.com](mailto:periyasamynatchimuthu@gmail.com)
-- **Portfolio:** [periyasamy-n.github.io](https://periyasamy-n.github.io)
-- **LeetCode:** [periyasamyn](https://leetcode.com/u/periyasamyn)
-
-<br/>
+<br>
 
 <div align="center">
-
-### "Learning every day. Building every night. Growing with every commit." 🚀
-
-<!-- Footer animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,100:00F7FF&height=120&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=4" width="100%"/>
 </div>
