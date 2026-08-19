@@ -1,173 +1,102 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11151c,100:3b28cc&height=150&section=header&text=PERIYASAMY%20N&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Wave" width="100%" />
 
-# PERIYASAMY N
+  <h2>Full Stack Developer</h2>
+  <p><b>Java Backend · React · Node.js · AI</b></p>
+  <p><i>Building practical software products and intelligent applications.</i></p>
 
-**Full Stack Developer**
-
-Java • React • Node.js • AI
-
-*Building practical software systems and intelligent developer tools.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/periyasamy-natchimuthu04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://periyasamy-n.github.io)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/periyasamyn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:periyasamynatchimuthu@gmail.com)
-
-</div>
-
-<br/>
-
-## 👨‍💻 Engineering Profile
-
-- Final-year **B.Tech Information Technology** student
-- Focused on **Java backend** and full-stack development
-- Building modern **React** applications
-- Developing **REST APIs** with Node.js and FastAPI
-- Exploring practical **LLM and AI API** integrations
-- Practicing **DSA and Java** problem solving
-- Preparing for software engineering / product-based opportunities
-
----
-
-## 🛠️ What I Work With
-
-**LANGUAGES**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**FRONTEND**  
-![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**BACKEND**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**DATABASES**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-**AI / LLM**  
-![Groq](https://img.shields.io/badge/Groq-F3702A?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0055FF?style=flat-square&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-0466C8?style=flat-square&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-20232A?style=flat-square)
-
-**TOOLS**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 🎯 Engineering Focus
-
-**Java Backend** — `APIs` `OOP` `Logic`  
-**Full Stack** — `React` `Node.js` `Databases`  
-**AI Applications** — `LLMs` `APIs` `Tools`  
-**Problem Solving** — `Java` `DSA` `LeetCode`
-
----
-
-## 💻 Featured Engineering Work
-
-### [AI Code Review Agent](https://ai-code-review-agent-1-lrnm.onrender.com)
-
-> AI-powered developer tool for intelligent code analysis.
-
-An AI-powered developer tool that analyzes submitted code and identifies bugs, security concerns, performance problems, and possible improvements.
-
-**Architecture**  
-`React` → `FastAPI` → `AI Processing` → `Groq / DeepSeek / Llama` → `SQLite`
-
-**Capabilities**  
-`Bug Detection` `Security Analysis` `Performance` `AI Suggestions`
-
-**Stack**  
-`React.js` `FastAPI` `Python` `Groq` `DeepSeek` `Llama` `SQLite`
-
-🔗 **[Live Demo](https://ai-code-review-agent-1-lrnm.onrender.com)**
-
-<br/>
-
-### Civic Issues Management System
-
-> Full-stack civic platform for reporting and managing public issues.
-
-A production-style application for tracking damaged roads, streetlights, garbage, and water problems. 
-
-**Features**  
-Issue reporting • Centralized dashboard • Role-based access • RESTful APIs • Issue tracking
-
-**Stack**  
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-<br/>
-
-### AI Mentorship & Project Platform
-
-> AI-assisted platform for student mentorship and project collaboration.
-
-Facilitates project management and task coordination with intelligent matching.
-
-**Features**  
-AI-assisted matching • Task tracking • Project collaboration • Google Maps API integration
-
-**Stack**  
-`React.js` `Node.js` `MongoDB` `Google Maps API`
-
----
-
-## ⏳ Development Journey
-
-**2026**
-- **VSB Engineering College**
-  - Final-Year Student, B.Tech Information Technology
-  - CGPA: 8.68
-
-**2025**
-- **Binary Spot Technology**
-  - *Web Development Intern*
-  - Worked on frontend and backend development tasks.
-
-- **Infosys Springboard**
-  - *Full Stack Development Intern*
-  - Built the Hire-a-Helper project using React, HTML, CSS, and JavaScript.
-
----
-
-## 🎓 Education & Certifications
-
-**Education**
-- B.Tech Information Technology — VSB Engineering College, Karur (CGPA: 8.68)
-
-**Certifications**
-- Java Gold Certification — NPTEL (96%)
-- Cloud Computing & Distributed Systems — NPTEL (79%)
-- Form-III Certificate (Softball) — Anna University
-
----
-
-## 🧠 Problem Solving
-
-<div align="center">
-  <p>Practicing <strong>Java</strong>, <strong>DSA</strong>, and competitive coding.</p>
-  <a href="https://leetcode.com/u/periyasamyn">
-    <img src="https://leetcard.jacoblin.cool/periyasamyn?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
-  </a>
+  <p>
+    <a href="https://linkedin.com/in/periyasamy-natchimuthu04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://periyasamy-n.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://leetcode.com/u/periyasamyn"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="mailto:periyasamynatchimuthu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h2>☕</h2>
+      <b>Java</b><br/>Backend
+    </td>
+    <td align="center" width="25%">
+      <h2>⚛️</h2>
+      <b>React</b><br/>Frontend
+    </td>
+    <td align="center" width="25%">
+      <h2>🟢</h2>
+      <b>Node.js</b><br/>APIs
+    </td>
+    <td align="center" width="25%">
+      <h2>🤖</h2>
+      <b>AI</b><br/>LLM Applications
+    </td>
+  </tr>
+</table>
+
+---
+
+### 👤 About Me
+I am a final-year **B.Tech Information Technology** student at VSB Engineering College (CGPA: 8.68). My focus is on building scalable backends, interactive frontends, and integrating modern AI capabilities into real-world software products. I am preparing for opportunities as a Software Engineer / Full Stack Developer where I can contribute to product-based engineering teams.
+
+---
+
+### 🚀 Selected Projects
+
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>1. AI Code Review Agent</h3>
+      <p><i>AI-powered developer tool that analyzes submitted source code and identifies potential bugs, security concerns, performance issues, and possible improvements.</i></p>
+      <p><b>Capabilities:</b> Bug Detection • Security Analysis • Performance Review • AI Suggestions</p>
+      <p><b>Architecture:</b> React → FastAPI → AI Processing → SQLite</p>
+      <p><b>Tech:</b> <code>React.js</code> <code>FastAPI</code> <code>Python</code> <code>Groq</code> <code>DeepSeek</code> <code>Llama</code> <code>SQLite</code></p>
+      <p>🔗 <a href="https://ai-code-review-agent-1-lrnm.onrender.com/">Live Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>2. Civic Issues Management</h3>
+      <p><i>Full-stack civic platform for reporting, tracking, and managing public infrastructure issues.</i></p>
+      <p><b>Features:</b> Issue Reporting • Centralized Dashboard • Role-Based Access • REST APIs • Issue Tracking</p>
+      <p><b>Tech:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>3. AI Mentorship Platform</h3>
+      <p><i>AI-assisted platform for student mentorship, project collaboration, and task coordination.</i></p>
+      <p><b>Features:</b> AI Matching • Task Tracking • Project Collaboration • Google Maps API</p>
+      <p><b>Tech:</b> <code>React.js</code> <code>Node.js</code> <code>MongoDB</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>4. Hotel Management System</h3>
+      <p><i>Full-stack hotel management application involving hotel listing, filtering, CRUD operations, frontend state management, and backend API integration.</i></p>
+      <p><b>Tech:</b> <code>React.js</code> <code>Redux</code> <code>Node.js</code> <code>Express.js</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech Stack
+
+**Languages & Frontend**  
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,redux,tailwind" alt="Languages & Frontend" />
+
+**Backend & Databases**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite" alt="Backend & Databases" />
+
+**Tools & AI**  
+<img src="https://skillicons.dev/icons?i=git,github,postman" alt="Tools" />  
+<br/>
+`Groq` • `DeepSeek` • `Llama` • `LLM APIs`
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
 
@@ -180,26 +109,52 @@ AI-assisted matching • Task tracking • Project collaboration • Google Maps
 
 ---
 
-## 🔄 Currently Building
+### 🧠 LeetCode
 
-- Building production-ready full-stack projects
-- Deepening Java backend engineering and REST API architecture
-- Advancing React application development
-- Exploring AI / LLM application development
-- Improving Data Structures & Algorithms
+<div align="center">
+
+[![LeetCode](https://leetcard.jacoblin.cool/periyasamyn?theme=dark&font=Baloo%202&ext=activity)](https://leetcode.com/u/periyasamyn)
+
+</div>
 
 ---
 
-## 🚀 Career Direction
+### ⏳ Experience / Journey
 
-My goal is to grow as a Software Engineer / Full Stack Developer, strengthen backend engineering and system design skills, and build scalable software products. I am particularly interested in product-based software engineering opportunities.
+- **2026** — **VSB Engineering College**  
+  *B.Tech IT · Final Year · 8.68 CGPA*
+
+- **2025** — **Infosys Springboard**  
+  *Full Stack Development Intern* (Built "Hire-a-Helper" using React, HTML, CSS, JavaScript)
+
+- **2025** — **Binary Spot Technology**  
+  *Web Development Intern* (Frontend and backend development)
+
+---
+
+### 🎓 Certifications
+
+- **Java Gold Certification** — NPTEL (96%)
+- **Cloud Computing & Distributed Systems** — NPTEL (79%)
+- **Form-III Certificate** — Anna University (Softball)
+
+---
+
+### 🎯 Current Focus
+
+`Java Backend Engineering` • `Full Stack Development` • `REST API Architecture` • `DSA / Problem Solving` • `AI / LLM Applications`
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b28cc,100:11151c&height=100&section=footer" alt="Footer Wave" width="100%" />
 
-### Let's build something useful.
-
-[LinkedIn](https://linkedin.com/in/periyasamy-natchimuthu04) • [Portfolio](https://periyasamy-n.github.io) • [LeetCode](https://leetcode.com/u/periyasamyn) • [Email](mailto:periyasamynatchimuthu@gmail.com)
-
+  <h3>Let's build something useful.</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/periyasamy-natchimuthu04">LinkedIn</a> • 
+    <a href="https://periyasamy-n.github.io">Portfolio</a> • 
+    <a href="https://leetcode.com/u/periyasamyn">LeetCode</a> • 
+    <a href="mailto:periyasamynatchimuthu@gmail.com">Email</a>
+  </p>
 </div>
