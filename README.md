@@ -36,7 +36,7 @@
   </tr>
 </table>
 
----
+-
 
 ### 👤 About Me
 I am a final-year **B.Tech Information Technology** student at VSB Engineering College (CGPA: 8.68). My focus is on building scalable backends, interactive frontends, and integrating modern AI capabilities into real-world software products. I am preparing for opportunities as a Software Engineer / Full Stack Developer where I can contribute to product-based engineering teams.
