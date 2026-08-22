@@ -1,160 +1,340 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11151c,100:3b28cc&height=150&section=header&text=PERIYASAMY%20N&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Wave" width="100%" />
 
-  <h2>Full Stack Developer</h2>
-  <p><b>Java Backend · React · Node.js · AI</b></p>
-  <p><i>Building practical software products and intelligent applications.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=180&section=header&text=PERIYASAMY%20N&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Node.js%20%7C%20AI&descAlignY=60&descSize=16" width="100%" alt="Periyasamy N profile header"/>
 
-  <p>
-    <a href="https://linkedin.com/in/periyasamy-natchimuthu04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://periyasamy-n.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://leetcode.com/u/periyasamyn"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-    <a href="mailto:periyasamynatchimuthu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<br>
+
+<a href="https://linkedin.com/in/periyasamy-natchimuthu04">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://periyasamy-n.github.io/Infinity_Web/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/periyasamyn">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="mailto:periyasamynatchimuthu@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Applications;Engineering+Java+Backends;Exploring+AI+%2F+LLM+Applications;Solving+Problems+with+Java+%26+DSA" alt="Typing animation"/>
+
 </div>
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <h2>☕</h2>
-      <b>Java</b><br/>Backend
-    </td>
-    <td align="center" width="25%">
-      <h2>⚛️</h2>
-      <b>React</b><br/>Frontend
-    </td>
-    <td align="center" width="25%">
-      <h2>🟢</h2>
-      <b>Node.js</b><br/>APIs
-    </td>
-    <td align="center" width="25%">
-      <h2>🤖</h2>
-      <b>AI</b><br/>LLM Applications
-    </td>
-  </tr>
+<div align="center">
+
+## ⚡ QUICK SNAPSHOT
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<h3>🎓</h3>
+<strong>8.68</strong>
+<br>
+<sub>CGPA</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>☕</h3>
+<strong>JAVA</strong>
+<strong>PYTHON</strong>
+<br>
+<sub>Programming Language</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>⚛️</h3>
+<strong>REACT</strong>
+<br>
+<sub>Frontend</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>🤖</h3>
+<strong>AI</strong>
+<br>
+<sub>Applications</sub>
+</td>
+
+</tr>
 </table>
 
--
-
-### 👤 About Me
-I am a final-year **B.Tech Information Technology** student at VSB Engineering College (CGPA: 8.68). My focus is on building scalable backends, interactive frontends, and integrating modern AI capabilities into real-world software products. I am preparing for opportunities as a Software Engineer / Full Stack Developer where I can contribute to product-based engineering teams.
+</div>
 
 ---
 
-### 🚀 Selected Projects
+## 🧩 Tech Stack
 
-<table width="100%">
-  <tr>
-    <td colspan="2">
-      <h3>1. AI Code Review Agent</h3>
-      <p><i>AI-powered developer tool that analyzes submitted source code and identifies potential bugs, security concerns, performance issues, and possible improvements.</i></p>
-      <p><b>Capabilities:</b> Bug Detection • Security Analysis • Performance Review • AI Suggestions</p>
-      <p><b>Architecture:</b> React → FastAPI → AI Processing → SQLite</p>
-      <p><b>Tech:</b> <code>React.js</code> <code>FastAPI</code> <code>Python</code> <code>Groq</code> <code>DeepSeek</code> <code>Llama</code> <code>SQLite</code></p>
-      <p>🔗 <a href="https://ai-code-review-agent-1-lrnm.onrender.com/">Live Demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>2. Civic Issues Management</h3>
-      <p><i>Full-stack civic platform for reporting, tracking, and managing public infrastructure issues.</i></p>
-      <p><b>Features:</b> Issue Reporting • Centralized Dashboard • Role-Based Access • REST APIs • Issue Tracking</p>
-      <p><b>Tech:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>3. AI Mentorship Platform</h3>
-      <p><i>AI-assisted platform for student mentorship, project collaboration, and task coordination.</i></p>
-      <p><b>Features:</b> AI Matching • Task Tracking • Project Collaboration • Google Maps API</p>
-      <p><b>Tech:</b> <code>React.js</code> <code>Node.js</code> <code>MongoDB</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>4. Hotel Management System</h3>
-      <p><i>Full-stack hotel management application involving hotel listing, filtering, CRUD operations, frontend state management, and backend API integration.</i></p>
-      <p><b>Tech:</b> <code>React.js</code> <code>Redux</code> <code>Node.js</code> <code>Express.js</code></p>
-    </td>
-  </tr>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Programming languages"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind" alt="Frontend technologies"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend technologies"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Database technologies"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman" alt="Developer tools"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge" alt="Groq"/>
+<img src="https://img.shields.io/badge/DeepSeek-111827?style=for-the-badge" alt="DeepSeek"/>
+<img src="https://img.shields.io/badge/Llama-111827?style=for-the-badge" alt="Llama"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI Code Review Agent</h3>
+
+AI-powered code analysis platform for intelligent developer feedback.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,python" alt="React FastAPI Python"/>
+
+<br><br>
+
+<code>Bug Detection</code>
+<code>Security Analysis</code>
+<code>Performance Review</code>
+
+<br><br>
+
+<a href="https://github.com/PERIYASAMY-N/AI_CODE_REVIEW_AGENT">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="AI Code Review Agent GitHub"/>
+</a>
+
+<a href="https://ai-code-review-agent-1-lrnm.onrender.com/">
+<img src="https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge" alt="AI Code Review Agent live demo"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏙️ Civic Issues Management</h3>
+
+Full-stack platform for reporting and managing public infrastructure issues.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React Node.js Express MongoDB"/>
+
+<br><br>
+
+<code>Issue Reporting</code>
+<code>Role Based Access</code>
+<code>REST APIs</code>
+
+<br><br>
+
+<a href="https://github.com/PERIYASAMY-N/civic_management">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="Civic Issues Management GitHub"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 AI Mentorship / Project Hub</h3>
+
+AI-assisted platform for student mentorship and project collaboration.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,mongodb" alt="React TypeScript Node.js MongoDB"/>
+
+<br><br>
+
+<code>AI Features</code>
+<code>Project Collaboration</code>
+<code>Task Management</code>
+
+<br><br>
+
+<a href="https://github.com/PERIYASAMY-N/project-mentor-hub">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="AI Mentorship Project Hub GitHub"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💼 Portfolio CMS</h3>
+
+Dynamic portfolio system designed for managing profile content and projects.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+
+<br><br>
+
+<code>Portfolio CMS</code>
+<code>Dynamic Content</code>
+<code>Project Management</code>
+
+<br><br>
+
+<a href="https://github.com/PERIYASAMY-N/CMS_PortFolio">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="Portfolio CMS GitHub"/>
+</a>
+
+</td>
+
+</tr>
 </table>
 
----
-
-### 💻 Tech Stack
-
-**Languages & Frontend**  
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,redux,tailwind" alt="Languages & Frontend" />
-
-**Backend & Databases**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite" alt="Backend & Databases" />
-
-**Tools & AI**  
-<img src="https://skillicons.dev/icons?i=git,github,postman" alt="Tools" />  
-<br/>
-`Groq` • `DeepSeek` • `Llama` • `LLM APIs`
+</div>
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PERIYASAMY-N&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PERIYASAMY-N&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/PERIYASAMY-N">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PERIYASAMY-N&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PERIYASAMY-N&theme=tokyonight&hide_border=true)
+<a href="https://github.com/PERIYASAMY-N">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PERIYASAMY-N&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/PERIYASAMY-N">
+  <img src="https://streak-stats.demolab.com/?user=PERIYASAMY-N&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-### 🧠 LeetCode
+# 🧠 Problem Solving
 
 <div align="center">
 
-[![LeetCode](https://leetcard.jacoblin.cool/periyasamyn?theme=dark&font=Baloo%202&ext=activity)](https://leetcode.com/u/periyasamyn)
+<a href="https://leetcode.com/u/periyasamyn">
+
+<img src="https://leetcard.jacoblin.cool/periyasamyn?theme=dark&font=Baloo%202&ext=activity" width="520" alt="Periyasamy LeetCode statistics"/>
+
+</a>
+
+<br><br>
+
+<code>Java</code>
+<code>DSA</code>
+<code>LeetCode</code>
 
 </div>
 
 ---
 
-### ⏳ Experience / Journey
+# 🎓 Education & Experience
 
-- **2026** — **VSB Engineering College**  
-  *B.Tech IT · Final Year · 8.68 CGPA*
+<div align="center">
 
-- **2025** — **Infosys Springboard**  
-  *Full Stack Development Intern* (Built "Hire-a-Helper" using React, HTML, CSS, JavaScript)
+<table>
+<tr>
 
-- **2025** — **Binary Spot Technology**  
-  *Web Development Intern* (Frontend and backend development)
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+**B.Tech Information Technology**
+
+VSB Engineering College
+
+**CGPA: 8.68**
+
+Final Year · 2026
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Experience
+
+**Infosys Springboard**
+
+Full Stack Development Intern
+
+<br>
+
+**Binary Spot Technology**
+
+Web Development Intern
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🎓 Certifications
+# 🔥 Currently Focused On
 
-- **Java Gold Certification** — NPTEL (96%)
-- **Cloud Computing & Distributed Systems** — NPTEL (79%)
-- **Form-III Certificate** — Anna University (Softball)
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Backend"/>
 
-### 🎯 Current Focus
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 
-`Java Backend Engineering` • `Full Stack Development` • `REST API Architecture` • `DSA / Problem Solving` • `AI / LLM Applications`
+<img src="https://img.shields.io/badge/REST_APIs-6366F1?style=for-the-badge" alt="REST APIs"/>
+
+<img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge" alt="Data Structures and Algorithms"/>
+
+<img src="https://img.shields.io/badge/AI_%2F_LLM-111827?style=for-the-badge" alt="AI and LLM"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b28cc,100:11151c&height=100&section=footer" alt="Footer Wave" width="100%" />
 
-  <h3>Let's build something useful.</h3>
-  
-  <p>
-    <a href="https://linkedin.com/in/periyasamy-natchimuthu04">LinkedIn</a> • 
-    <a href="https://periyasamy-n.github.io">Portfolio</a> • 
-    <a href="https://leetcode.com/u/periyasamyn">LeetCode</a> • 
-    <a href="mailto:periyasamynatchimuthu@gmail.com">Email</a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0D1117&height=120&section=footer" width="100%" alt="Profile footer"/>
+
+### Let's build something useful.
+
+<sub>Java · React · Node.js · AI</sub>
+
 </div>
