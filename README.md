@@ -225,7 +225,17 @@ Dynamic portfolio system designed for managing profile content and projects.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-stats.svg" width="48%" alt="GitHub Statistics"/>
+
+<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/top-languages.svg" width="40%" alt="Top Programming Languages"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-streak.svg" width="65%" alt="GitHub Contribution Streak"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
