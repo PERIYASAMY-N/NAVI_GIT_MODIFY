@@ -1,4 +1,4 @@
-name: Generate GitHub Language Stats
+name: Generate GitHub Activity Stats
 
 on:
   schedule:
@@ -8,8 +8,7 @@ on:
     branches:
       - main
     paths:
-      - '.github/workflows/github-language-stats.yml'
-      - '.github/scripts/generate_language_stats.py'
+      - '.github/workflows/github-activity.yml'
 
 permissions:
   contents: write
@@ -21,15 +20,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+      - name: Create dist directory
+        run: mkdir -p dist
 
-      - name: Generate Language Stats SVG
-        run: python .github/scripts/generate_language_stats.py
-        env:
+      - name: Generate GitHub Activity Streak
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        with:
+          USERNAME: PERIYASAMY-N
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: tokyonight
+          HIDE_BORDER: true
+          OUTPUT_PATH: dist/github-activity.svg
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4

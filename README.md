@@ -226,9 +226,9 @@ Dynamic portfolio system designed for managing profile content and projects.
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-language-stats.svg"
+  src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-activity.svg"
   width="90%"
-  alt="GitHub Language Activity"
+  alt="GitHub Activity Statistics"
 />
 
 </div>
