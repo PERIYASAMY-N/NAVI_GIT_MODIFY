@@ -225,22 +225,6 @@ Dynamic portfolio system designed for managing profile content and projects.
 
 <div align="center">
 
-<a href="https://github.com/PERIYASAMY-N">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PERIYASAMY-N&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/PERIYASAMY-N">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PERIYASAMY-N&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/PERIYASAMY-N">
-  <img src="https://streak-stats.demolab.com/?user=PERIYASAMY-N&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
