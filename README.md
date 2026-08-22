@@ -225,17 +225,18 @@ Dynamic portfolio system designed for managing profile content and projects.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-stats.svg" width="48%" alt="GitHub Statistics"/>
+182 Total Contributions<br>
+Oct 16, 2024 – Present<br>
+<br>
+2 Current Streak<br>
+Aug 21 – Aug 22<br>
+<br>
+9 Longest Streak<br>
+Jun 29 – Jul 7<br>
 
-<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/top-languages.svg" width="40%" alt="Top Programming Languages"/>
+<br>
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-streak.svg" width="65%" alt="GitHub Contribution Streak"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+<img src="https://ghchart.rshah.org/PERIYASAMY-N" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
