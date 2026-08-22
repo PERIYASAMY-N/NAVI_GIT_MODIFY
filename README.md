@@ -225,18 +225,11 @@ Dynamic portfolio system designed for managing profile content and projects.
 
 <div align="center">
 
-182 Total Contributions<br>
-Oct 16, 2024 – Present<br>
-<br>
-2 Current Streak<br>
-Aug 21 – Aug 22<br>
-<br>
-9 Longest Streak<br>
-Jun 29 – Jul 7<br>
-
-<br>
-
-<img src="https://ghchart.rshah.org/PERIYASAMY-N" width="100%" alt="GitHub Contribution Graph"/>
+<img
+  src="https://raw.githubusercontent.com/PERIYASAMY-N/PERIYASAMY-N/output/github-language-stats.svg"
+  width="90%"
+  alt="GitHub Language Activity"
+/>
 
 </div>
 
